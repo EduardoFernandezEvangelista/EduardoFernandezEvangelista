@@ -1,414 +1,801 @@
-👨‍💻 [SEU NOME]
-Desenvolvedor em formação | Software • Backend • Mobile • Web • IoT
+<div align="center">
 
-Explorando tecnologia através de código, sistemas e hardware para transformar ideias em projetos.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=20,24,30&text=SEU%20NOME&fontColor=F7D6E6&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web%20%E2%80%A2%20IoT&descAlignY=58&descSize=18" width="100%"/>
 
-👋 Sobre mim
+<br>
 
-Olá! Eu sou [SEU NOME], estudante e desenvolvedor em formação na área de tecnologia.
+# 👨‍💻 [SEU NOME]
 
-Meu GitHub funciona como um espaço para estudo, prática, experimentação e evolução, onde registro projetos e conhecimentos adquiridos ao longo da minha jornada de aprendizado em programação e desenvolvimento de software.
+### Software Developer • Backend • Mobile • Web • IoT
 
-Tenho interesse em diferentes áreas da tecnologia, principalmente:
+> **Construindo conhecimento, transformando ideias em sistemas e evoluindo através de cada projeto.**
 
-💻 Desenvolvimento de Software
-☕ Desenvolvimento Backend
-📱 Desenvolvimento Mobile
-🌐 Desenvolvimento Web
-🤖 IoT e Sistemas Embarcados
-🔌 Integração entre Hardware e Software
-🌐 Redes de Computadores
-⚙️ Automação
-🧠 Lógica e resolução de problemas
+<br>
 
-Meu objetivo é continuar evoluindo tecnicamente, transformar conhecimentos em projetos práticos e construir uma base sólida para minha carreira em tecnologia.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/[SEU_USUARIO])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([SEU_LINKEDIN])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:[SEU_EMAIL])
 
-💻 Habilidades Técnicas
-☕ Linguagens de Programação
+</div>
 
-Java Python MicroPython Dart JavaScript
+---
 
-🌐 Desenvolvimento Web
+## 👋 Sobre Mim
 
-HTML CSS JavaScript
+Sou um desenvolvedor em construção, utilizando **estudos, projetos práticos, exercícios e experimentações** para desenvolver minha base na área de tecnologia.
 
-📱 Desenvolvimento Mobile
+Tenho interesse em compreender não apenas como uma aplicação funciona, mas também como diferentes partes de um sistema podem se conectar.
 
-Flutter Dart
+Atualmente, venho estudando e desenvolvendo conhecimentos em:
 
-⚙️ Backend
+* 💻 Desenvolvimento de Software
+* ☕ Backend
+* 🌐 Desenvolvimento Web
+* 📱 Desenvolvimento Mobile
+* 🤖 IoT
+* 🔌 Sistemas Embarcados
+* 🌐 Redes e conectividade
+* 🗄️ Banco de Dados
+* 🔗 APIs
+* 🧩 Engenharia de Software
+* ⚙️ Integração entre Hardware e Software
 
-Java Spring Boot MVC
+Meu objetivo é continuar evoluindo através da prática, transformando conceitos estudados em aplicações e experimentos cada vez mais completos.
 
-🤖 IoT & Sistemas Embarcados
+---
 
-Arduino ESP32 Raspberry Pi MicroPython
+## 🧠 Como Eu Aprendo
 
-🌐 Redes & Conectividade
+Meu GitHub funciona como um **registro da minha evolução técnica**.
 
-Redes de Computadores Comunicação entre Dispositivos Conectividade Protocolos de Rede
+Nem todo repositório representa um projeto finalizado. Alguns podem representar uma etapa de aprendizado, um experimento ou simplesmente uma tentativa de entender melhor determinado conceito.
 
-🧠 Fundamentos de Programação
-Lógica de programação
-Variáveis e tipos de dados
-Estruturas condicionais
-Estruturas de repetição
-Funções e métodos
-Arrays
-Manipulação de dados
-Orientação a objetos
-MVC
-Integração entre sistemas
-Integração entre hardware e software
-Resolução de problemas
-📊 Nível de Conhecimento
+```text
+Estudar
+   ↓
+Experimentar
+   ↓
+Construir
+   ↓
+Testar
+   ↓
+Errar
+   ↓
+Corrigir
+   ↓
+Evoluir
+```
 
-Esta classificação é utilizada apenas como uma forma de organizar meus estudos e pode ser atualizada conforme minha evolução.
+Por isso, meus repositórios podem conter:
 
-Categoria	Tecnologias / Conhecimentos
-🟢 Conhecimentos principais	[ADICIONAR]
-🔵 Conhecimentos em desenvolvimento	[ADICIONAR]
-🟡 Em aprendizado	[ADICIONAR]
+* 📚 Estudos de programação
+* 🧪 Testes e experimentações
+* 🧩 Exercícios
+* 🎓 Projetos acadêmicos
+* 🚀 Projetos pessoais
+* 🌐 Aplicações Web
+* 📱 Aplicações Mobile
+* 🔗 APIs
+* 🤖 Projetos com hardware
+* ⚙️ Sistemas embarcados
 
-Os níveis não representam porcentagens de domínio. Eles servem apenas para indicar meu estágio atual de estudo e familiaridade com cada tecnologia.
+> O objetivo não é mostrar apenas o que já está pronto, mas também registrar **como o conhecimento está sendo construído**.
 
-🛠️ Minha Stack
-Backend
+---
 
-Java · Spring Boot · MVC
+# ⚡ Tech Stack
 
-Web
+## ☕ Linguagens & Programação
 
-HTML · CSS · JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,dart,js,mysql" />
+</p>
 
-Mobile
+| Tecnologia     | Contexto                                                |
+| -------------- | ------------------------------------------------------- |
+| ☕ Java         | Programação, orientação a objetos e backend             |
+| 🐍 Python      | Programação e desenvolvimento                           |
+| 🐍 MicroPython | Desenvolvimento para dispositivos e sistemas embarcados |
+| 🎯 Dart        | Desenvolvimento de aplicações Flutter                   |
+| 🟨 JavaScript  | Desenvolvimento Web                                     |
+| 🗄️ MySQL      | Banco de dados e SQL                                    |
 
-Flutter · Dart
+---
 
-Programação
+## 🌐 Desenvolvimento Web
 
-Java · Python · MicroPython · Dart · JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-IoT / Embedded
+* HTML
+* CSS
+* JavaScript
+* Figma
 
-Arduino · ESP32 · Raspberry Pi · MicroPython
+> Figma é utilizado como ferramenta de **design e prototipação**, enquanto HTML, CSS e JavaScript fazem parte dos estudos de desenvolvimento Web.
 
-Redes
+---
 
-Redes de Computadores · Comunicação entre Dispositivos · Conectividade
+## 📱 Desenvolvimento Mobile
 
-🚀 Áreas de Interesse
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-Atualmente, meus estudos e projetos estão relacionados a diferentes áreas do desenvolvimento tecnológico.
+Meu foco em desenvolvimento Mobile envolve a criação de aplicações utilizando:
 
-<table> <tr> <td align="center" width="25%">
+* 📱 Flutter
+* 🎯 Dart
+* 🧭 Navegação entre telas
+* 🧩 Construção de interfaces
+* 🔗 Integração entre componentes da aplicação
 
-💻
+---
 
-Software
+## ⚙️ Backend
 
-Desenvolvimento de aplicações e lógica de programação.
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
 
-</td> <td align="center" width="25%">
+Conhecimentos e estudos relacionados a backend:
 
-☕
+* ☕ Java
+* 🌱 Spring Boot
+* 🧩 MVC
+* 🔗 APIs REST
+* 🔄 Integração entre sistemas
+* 🗄️ Banco de dados
+* 🧠 Lógica de backend
 
-Backend
+---
 
-Java, Spring Boot e arquitetura MVC.
+## 🤖 IoT & Sistemas Embarcados
 
-</td> <td align="center" width="25%">
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
 
-📱
+Tenho interesse em projetos que conectam software ao mundo físico, estudando conceitos como:
 
-Mobile
+* 🔌 Arduino
+* 📡 ESP32
+* 🖥️ Raspberry Pi
+* 🐍 MicroPython
+* 📊 Sensores
+* ⚙️ Atuadores
+* 📡 Comunicação entre dispositivos
+* 🔗 Integração Hardware + Software
 
-Flutter e Dart para desenvolvimento de aplicações.
+---
 
-</td> <td align="center" width="25%">
+## 🌐 Redes & Conectividade
 
-🤖
+Meus estudos também envolvem conceitos relacionados à comunicação entre sistemas e dispositivos:
 
-IoT
+* 🌐 Redes de computadores
+* 📡 Comunicação entre dispositivos
+* 🔗 Conceitos de conectividade
+* 💻 Comunicação entre hardware e software
+* 🧩 Protocolos de rede conforme os projetos estudados
 
-Arduino, ESP32, Raspberry Pi e integração com sensores.
+---
 
-</td> </tr> </table>
+## 🗄️ Banco de Dados
 
-Também tenho interesse em desenvolvimento Web, redes, automação e integração entre hardware e software.
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-📂 Projetos em Destaque
+* MySQL
+* SQL
+* Armazenamento de dados
+* Modelagem de dados
+
+### 🔗 Relação conceitual
+
+```text
+┌──────────────┐
+│  Aplicação   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   Backend    │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     API      │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ Banco Dados  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    MySQL     │
+└──────────────┘
+```
+
+*Representação conceitual. Nem todos os projetos utilizam necessariamente essa arquitetura.*
 
-Esta seção será atualizada conforme novos projetos forem desenvolvidos.
+---
 
-🔹 [NOME DO PROJETO 01]
+# 🧩 Conceitos de Programação
 
-Descrição:
-[DESCRIÇÃO DO PROJETO]
+Minha base de estudos envolve conceitos fundamentais de programação e desenvolvimento de sistemas.
 
-Tecnologias:
-[TECNOLOGIA] [TECNOLOGIA]
+### 🔹 Fundamentos
 
-Repositório:
-[LINK DO REPOSITÓRIO]
+* Lógica de programação
+* Variáveis
+* Tipos de dados
+* Operadores
+* Conversão de tipos
+* Strings
+* Arrays
 
-🔹 [NOME DO PROJETO 02]
+### 🔹 Controle de fluxo
 
-Descrição:
-[DESCRIÇÃO DO PROJETO]
+* Estruturas condicionais
+* Estruturas de repetição
 
-Tecnologias:
-[TECNOLOGIA] [TECNOLOGIA]
+### 🔹 Funções & Métodos
 
-Repositório:
-[LINK DO REPOSITÓRIO]
+* Funções
+* Métodos
+* Parâmetros
+* Retorno de valores
 
-🔹 [NOME DO PROJETO 03]
+### 🔹 Orientação a Objetos
 
-Descrição:
-[DESCRIÇÃO DO PROJETO]
+* Classes
+* Objetos
+* Atributos
+* Métodos
+* Encapsulamento
+* Herança
+* Polimorfismo
+* Interfaces
 
-Tecnologias:
-[TECNOLOGIA] [TECNOLOGIA]
+### 🔹 Arquitetura & Integração
 
-Repositório:
-[LINK DO REPOSITÓRIO]
+* MVC
+* Integração entre sistemas
+* Comunicação entre aplicações
+* APIs
 
-🔹 [NOME DO PROJETO 04]
+---
 
-Descrição:
-[DESCRIÇÃO DO PROJETO]
+# 🧱 Programação Orientada a Objetos
 
-Tecnologias:
-[TECNOLOGIA] [TECNOLOGIA]
+A Orientação a Objetos faz parte da evolução dos meus estudos, especialmente no desenvolvimento com **Java**.
 
-Repositório:
-[LINK DO REPOSITÓRIO]
+```text
+┌─────────────┐
+│   Classes   │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   Objetos   │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  Atributos  │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   Métodos   │
+└──────┬──────┘
+       ↓
+┌───────────────┐
+│ Encapsulamento │
+└──────┬────────┘
+       ↓
+┌─────────────┐
+│   Herança   │
+└──────┬──────┘
+       ↓
+┌──────────────┐
+│ Polimorfismo │
+└──────┬───────┘
+       ↓
+┌─────────────┐
+│ Interfaces  │
+└─────────────┘
+```
 
-🔹 [NOME DO PROJETO 05]
+Esses conceitos fazem parte da construção da minha base para desenvolver sistemas mais organizados e compreender melhor a estrutura de aplicações.
 
-Descrição:
-[DESCRIÇÃO DO PROJETO]
+---
 
-Tecnologias:
-[TECNOLOGIA] [TECNOLOGIA]
+# 📊 Nível de Conhecimento
 
-Repositório:
-[LINK DO REPOSITÓRIO]
+Esta classificação foi deixada de forma simples para poder ser atualizada conforme minha evolução.
 
-🔹 [NOME DO PROJETO 06]
+### 🟢 Conhecimentos estudados
 
-Descrição:
-[DESCRIÇÃO DO PROJETO]
+* `[ADICIONAR TECNOLOGIAS]`
 
-Tecnologias:
-[TECNOLOGIA] [TECNOLOGIA]
+### 🔵 Em desenvolvimento
 
-Repositório:
-[LINK DO REPOSITÓRIO]
+* `[ADICIONAR TECNOLOGIAS]`
 
-🗂️ Projetos por Área
+### 🟡 Em aprendizado
 
-Uma forma rápida de explorar meus projetos:
+* `[ADICIONAR TECNOLOGIAS]`
 
-☕ Java / Backend
+### ⚪ Próximos estudos
 
-Projetos relacionados a Java, lógica, orientação a objetos, Spring Boot e desenvolvimento backend.
+* `[ADICIONAR TECNOLOGIAS]`
 
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-🐍 Python
+> A classificação pode mudar conforme novos estudos e projetos forem desenvolvidos.
 
-Projetos, exercícios e estudos utilizando Python e MicroPython.
+---
 
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-📱 Flutter / Dart
+# 🧰 Ferramentas
 
-Projetos voltados ao desenvolvimento de aplicações mobile.
+### 💻 Desenvolvimento
 
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-🌐 Web
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea" />
+</p>
 
-Projetos e estudos envolvendo HTML, CSS e JavaScript.
+* VS Code
+* IntelliJ IDEA
 
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-🤖 IoT / ESP32 / Arduino
+### 🔀 Controle de Versão
 
-Projetos envolvendo sensores, microcontroladores, automação e integração entre hardware e software.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-🖥️ Redes
+* Git
+* GitHub
 
-Estudos e projetos relacionados a redes, comunicação e conectividade entre dispositivos.
+### 🎨 Design
 
-[PROJETO] — [LINK]
-[PROJETO] — [LINK]
-📚 Estudos e Aprendizado
+* Figma
 
-Meu GitHub também funciona como um registro da minha evolução técnica.
+### 🤖 Hardware
 
-✅ Estudado / Praticado
-Fundamentos de programação
-Lógica de programação
-Java
-Python
-MicroPython
-HTML
-CSS
-JavaScript
-Dart
-Flutter
-Arduino
-ESP32
-Raspberry Pi
-Redes de computadores
-Estruturas condicionais
-Estruturas de repetição
-Funções e métodos
-Arrays
-Orientação a objetos
-MVC
-🔄 Em desenvolvimento
-[ADICIONAR CONTEÚDO]
-[ADICIONAR CONTEÚDO]
-[ADICIONAR CONTEÚDO]
-📌 Próximos objetivos
-[ADICIONAR OBJETIVO]
-[ADICIONAR OBJETIVO]
-[ADICIONAR OBJETIVO]
+* Arduino
+* ESP32
+* Raspberry Pi
 
-A lista acima representa o processo de aprendizado e pode mudar conforme novos conteúdos e projetos forem adicionados.
+---
 
-🗺️ Roadmap
-✅ Conhecimentos atuais
-Java
-Python
-MicroPython
-Dart
-JavaScript
-HTML
-CSS
-Flutter
-Spring Boot
-MVC
-Arduino
-ESP32
-Raspberry Pi
-Redes
+# 🚀 Áreas de Interesse
+
+| Área                           | Foco                                      |
+| ------------------------------ | ----------------------------------------- |
+| ☕ Backend                      | Desenvolvimento de sistemas e APIs        |
+| 🌐 Web                         | Desenvolvimento de aplicações Web         |
+| 📱 Mobile                      | Desenvolvimento de aplicações Mobile      |
+| 🤖 IoT                         | Integração entre dispositivos e software  |
+| 🔌 Sistemas Embarcados         | Programação e experimentação com hardware |
+| 🌐 Redes                       | Comunicação e conectividade               |
+| 🗄️ Banco de Dados             | SQL, armazenamento e modelagem            |
+| 🔗 APIs                        | Comunicação entre sistemas                |
+| 🧩 Engenharia de Software      | Organização e construção de sistemas      |
+| 💻 Desenvolvimento de Sistemas | Construção de aplicações completas        |
+
+---
+
+# 🏗️ Projetos em Destaque
+
+> Esta seção está preparada para receber projetos conforme eles forem desenvolvidos.
+
+### 🔹 Projeto 01 — `[NOME DO PROJETO]`
+
+**Descrição:**
+`[DESCRIÇÃO DO PROJETO]`
+
+**Tecnologias:**
+`[TECNOLOGIA]` ` [TECNOLOGIA]`
+
+**Status:**
+`[EM DESENVOLVIMENTO / CONCLUÍDO / ESTUDO]`
+
+**Repositório:**
+`[LINK]`
+
+---
+
+### 🔹 Projeto 02 — `[NOME DO PROJETO]`
+
+**Descrição:**
+`[DESCRIÇÃO DO PROJETO]`
+
+**Tecnologias:**
+`[TECNOLOGIA]` `[TECNOLOGIA]`
+
+**Status:**
+`[EM DESENVOLVIMENTO / CONCLUÍDO / ESTUDO]`
+
+**Repositório:**
+`[LINK]`
+
+---
+
+### 🔹 Projeto 03 — `[NOME DO PROJETO]`
+
+**Descrição:**
+`[DESCRIÇÃO DO PROJETO]`
+
+**Tecnologias:**
+`[TECNOLOGIA]` `[TECNOLOGIA]`
+
+**Status:**
+`[EM DESENVOLVIMENTO / CONCLUÍDO / ESTUDO]`
+
+**Repositório:**
+`[LINK]`
+
+---
+
+### 🔹 Projeto 04 — `[NOME DO PROJETO]`
+
+**Descrição:**
+`[DESCRIÇÃO DO PROJETO]`
+
+**Tecnologias:**
+`[TECNOLOGIA]` `[TECNOLOGIA]`
+
+**Status:**
+`[EM DESENVOLVIMENTO / CONCLUÍDO / ESTUDO]`
+
+**Repositório:**
+`[LINK]`
+
+---
+
+### 🔹 Projeto 05 — `[NOME DO PROJETO]`
+
+**Descrição:**
+`[DESCRIÇÃO DO PROJETO]`
+
+**Tecnologias:**
+`[TECNOLOGIA]` `[TECNOLOGIA]`
+
+**Status:**
+`[EM DESENVOLVIMENTO / CONCLUÍDO / ESTUDO]`
+
+**Repositório:**
+`[LINK]`
+
+---
+
+### 🔹 Projeto 06 — `[NOME DO PROJETO]`
+
+**Descrição:**
+`[DESCRIÇÃO DO PROJETO]`
+
+**Tecnologias:**
+`[TECNOLOGIA]` `[TECNOLOGIA]`
+
+**Status:**
+`[EM DESENVOLVIMENTO / CONCLUÍDO / ESTUDO]`
+
+**Repositório:**
+`[LINK]`
+
+---
+
+# 📂 Projetos por Tecnologia
+
+### ☕ Java
+
+`[PROJETOS]`
+
+### 🐍 Python / MicroPython
+
+`[PROJETOS]`
+
+### 📱 Flutter / Dart
+
+`[PROJETOS]`
+
+### 🌐 Web
+
+`[PROJETOS]`
+
+### 🤖 ESP32 / Arduino / IoT
+
+`[PROJETOS]`
+
+### 🗄️ MySQL
+
+`[PROJETOS]`
+
+### 🌐 Redes
+
+`[PROJETOS]`
+
+---
+
+# 🤖 Hardware + Software
+
+Uma das áreas que mais conecta meus interesses é a integração entre **software e hardware**.
+
+```text
+┌──────────────┐
+│   Sensores   │
+└──────┬───────┘
+       ↓
+┌─────────────────┐
+│ ESP32 / Arduino │
+└──────┬──────────┘
+       ↓
+┌──────────────┐
+│ Processamento│
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ Comunicação  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    Backend   │
+│   / Sistema  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│  Aplicação   │
+└──────────────┘
+```
+
+Essa representação mostra uma possibilidade de integração entre dispositivos físicos e sistemas de software.
+
+Projetos nessa área podem envolver **sensores, atuadores, processamento, comunicação e aplicações**, dependendo da proposta de cada projeto.
+
+---
+
+# 📚 Estudos
+
+### ✅ Estudado
+
+`[ADICIONAR CONTEÚDOS]`
+
+### 🔄 Em desenvolvimento
+
+`[ADICIONAR CONTEÚDOS]`
+
+### 📌 Próximos estudos
+
+`[ADICIONAR CONTEÚDOS]`
+
+---
+
+# 🗺️ Roadmap
+
+Meu roadmap representa uma possível evolução dos estudos. Ele **não representa uma ordem obrigatória**.
+
+```text
+Fundamentos
+     ↓
 Lógica de Programação
+     ↓
+Java / Python
+     ↓
 Orientação a Objetos
-🔄 Atualmente estudando
-[ADICIONAR]
-[ADICIONAR]
-[ADICIONAR]
-🎯 Próximos objetivos
-[ADICIONAR]
-[ADICIONAR]
-[ADICIONAR]
-📈 Minha Evolução
+     ↓
+Web / Mobile
+     ↓
+Backend / APIs
+     ↓
+Banco de Dados
+     ↓
+IoT / Sistemas Embarcados
+     ↓
+Integração de Sistemas
+     ↓
+Projetos mais completos
+```
 
-Minha trajetória de estudos pode ser representada como um processo contínuo:
+---
 
-                 ┌─────────────────────┐
-                 │     Fundamentos     │
-                 │     de Programação  │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Lógica de           │
-                 │ Programação         │
-                 └──────────┬──────────┘
-                            ↓
-              ┌─────────────┴─────────────┐
-              ↓                           ↓
-       ┌─────────────┐             ┌─────────────┐
-       │    Java     │             │   Python    │
-       └──────┬──────┘             └──────┬──────┘
-              ↓                           ↓
-       ┌─────────────┐             ┌─────────────┐
-       │   Backend   │             │    IoT      │
-       │ Spring Boot │             │ ESP32/      │
-       │     MVC     │             │ Arduino     │
-       └──────┬──────┘             └──────┬──────┘
-              │                           │
-              └─────────────┬─────────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Web / Mobile / APIs  │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Projetos integrados │
-                 │ Hardware + Software │
-                 └─────────────────────┘
+# 📈 Minha Evolução
 
-O objetivo é transformar cada etapa de estudo em conhecimento prático através de exercícios, experimentos e projetos.
+Meu GitHub acompanha minha evolução através de estudos, exercícios, experimentos e projetos.
 
-📊 GitHub
+```text
+Fundamentos
+     ↓
+Lógica
+     ↓
+Java
+     ↓
+Python
+     ↓
+Web
+     ↓
+Mobile
+     ↓
+Backend
+     ↓
+Banco de Dados
+     ↓
+IoT
+     ↓
+Sistemas Integrados
+```
 
-Meu perfil também serve como registro público da minha evolução através de:
+Essa timeline representa uma **evolução de aprendizado e projetos**, e não uma trajetória profissional formal.
 
-Repositórios de estudo;
-Projetos pessoais;
-Exercícios de programação;
-Experimentos com tecnologias;
-Projetos envolvendo hardware e software;
-Novos aprendizados ao longo da formação.
-📌 Estatísticas
+---
 
-Esta seção pode receber posteriormente componentes visuais de estatísticas do GitHub, caso sejam necessários.
+# 🌐 Backend & APIs
 
-Repositórios: [AUTOMÁTICO / ADICIONAR]
-Linguagens mais utilizadas: [AUTOMÁTICO / ADICIONAR]
-Contribuições: [AUTOMÁTICO / ADICIONAR]
+```text
+┌──────────────┐
+│     Java     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ Spring Boot  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     MVC      │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     APIs     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   Sistemas   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ Banco Dados  │
+└──────────────┘
+```
 
-Estatísticas podem variar ao longo do tempo e não representam, isoladamente, nível de conhecimento técnico.
+Meus estudos de backend envolvem **Java, Spring Boot, MVC, APIs, comunicação entre sistemas e banco de dados**.
 
-🔧 Atualmente construindo
-┌───────────────────────────────────────────────┐
-│                                               │
-│  💻 Desenvolvimento de Software               │
-│  ☕ Java / Backend                             │
-│  📱 Flutter / Mobile                          │
-│  🌐 Web                                       │
-│  🤖 IoT / Sistemas Embarcados                │
-│  🔌 Hardware + Software                       │
-│  🌐 Redes                                     │
-│                                               │
-└───────────────────────────────────────────────┘
+---
 
-Sempre buscando transformar novos conceitos em prática, projetos e aprendizado contínuo.
-
-📫 Contato
-
-Estou aberto a conhecer pessoas, projetos e oportunidades relacionadas à tecnologia.
-
-<p align="left"> <a href="[SEU LINKEDIN]"> <img src="https://img.shields.io/badge/LinkedIn-[SEU_NOME]-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="[SEU GITHUB]"> <img src="https://img.shields.io/badge/GitHub-[SEU_USUARIO]-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="mailto:[SEU EMAIL]"> <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
-
-LinkedIn: [SEU LINKEDIN]
-GitHub: [SEU GITHUB]
-Email: [SEU EMAIL]
-Portfólio: [SEU PORTFÓLIO]
-
-🤝 Conecte-se comigo
-
-Se algum dos meus projetos ou estudos chamou sua atenção, fique à vontade para explorar os repositórios e acompanhar minha evolução.
-
-Código, aprendizado e projetos: um passo de cada vez. 🚀
+# 📊 GitHub Analytics
 
 <div align="center">
 
-💻 Desenvolvedor em formação • Tecnologia • Software • IoT
+<a href="https://github.com/[SEU_USUARIO]">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
 
-Obrigado pela visita!
+<a href="https://github.com/[SEU_USUARIO]">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=8&theme=dark"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/[SEU_USUARIO]">
+  <img src="https://streak-stats.demolab.com?user=[SEU_USUARIO]&theme=dark" />
+</a>
+
+</div>
+
+> Substitua `[SEU_USUARIO]` pelo seu usuário real do GitHub para que as estatísticas sejam carregadas corretamente.
+
+---
+
+# 🐍 Contribution Graph
+
+Para utilizar um gráfico de contribuição no estilo Snake, é necessário configurar um workflow separado no GitHub para gerar a animação.
+
+```text
+[SEU_USUARIO]
+```
+
+> O README sozinho não gera automaticamente o gráfico. O workflow responsável pela geração precisa ser configurado no repositório.
+
+---
+
+# 🎯 Objetivos
+
+* Evoluir continuamente em programação
+* Desenvolver projetos cada vez mais completos
+* Aprofundar conhecimentos em Java
+* Evoluir em backend
+* Desenvolver aplicações Mobile
+* Criar aplicações Web
+* Aprimorar conhecimentos em banco de dados
+* Desenvolver projetos de IoT
+* Integrar hardware e software
+* Melhorar lógica de programação
+* Aprimorar orientação a objetos
+* Aprender novas tecnologias conforme necessário
+
+---
+
+# 🔮 Próximos Passos
+
+```text
+┌──────────────────────────────────┐
+│ [ADICIONAR PRÓXIMO OBJETIVO]     │
+└──────────────────────────────────┘
+
+┌──────────────────────────────────┐
+│ [ADICIONAR TECNOLOGIA]           │
+└──────────────────────────────────┘
+
+┌──────────────────────────────────┐
+│ [ADICIONAR PROJETO]              │
+└──────────────────────────────────┘
+
+┌──────────────────────────────────┐
+│ [ADICIONAR ÁREA DE ESTUDO]       │
+└──────────────────────────────────┘
+```
+
+---
+
+# 🧪 Aprendizado Através de Projetos
+
+A prática faz parte do processo de construção do conhecimento.
+
+```text
+Aprender
+   ↓
+Experimentar
+   ↓
+Construir
+   ↓
+Testar
+   ↓
+Errar
+   ↓
+Corrigir
+   ↓
+Evoluir
+```
+
+Cada projeto pode representar uma nova tentativa de transformar conhecimento em algo funcional.
+
+---
+
+# 🧠 Filosofia
+
+> **Aprender é entender. Construir é testar. Evoluir é transformar cada tentativa em conhecimento.**
+
+---
+
+# 📫 Entre em Contato
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/[SEU_USUARIO])
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([SEU_LINKEDIN])
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:[SEU_EMAIL])
+
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)]([SEU_PORTFÓLIO])
+
+</div>
+
+---
+
+# 🤝 Conecte-se
+
+Se quiser acompanhar minha jornada na tecnologia, conhecer meus experimentos ou explorar os projetos que fazem parte do meu aprendizado, **meu GitHub é o lugar onde essa evolução acontece na prática.**
+
+---
+
+# 📜 Licença
+
+`[ADICIONAR LICENÇA]`
+
+---
+
+<div align="center">
+
+### 💻 Estudando • 🧪 Experimentando • 🏗️ Construindo • 🚀 Evoluindo
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=20,24,30&section=footer"/>
 
 </div>
