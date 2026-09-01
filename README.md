@@ -96,10 +96,6 @@
 
 # 📊 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFernandezEvangelista&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFernandezEvangelista&layout=compact&theme=midnight-purple&hide_border=true"/>
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoFernandezEvangelista&theme=midnight-purple&hide_border=true"/>
