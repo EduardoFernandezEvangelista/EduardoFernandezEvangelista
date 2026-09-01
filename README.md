@@ -1,118 +1,169 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a00ff,100:9d4edd&section=header"/>
-
-<br>
-
-<div align="center"> <img height="180" src="https://img.pokemondb.net/sprites/home/shiny/mew.png" alt="Mew Shiny Pokémon" /> </div>
-
-<div align="center"> <h3>💻 Desenvolvedor & Estudante de Tecnologia</h3>
-
-<samp> Olá! Eu sou <b>Eduardo</b> 👋 <br> Apaixonado por tecnologia, desenvolvimento de software, robótica e inovação. </samp> </div>
-
-<br>
-
-<div align="center" width="100%"> <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Olá,+eu+sou+Eduardo!;Desenvolvedor+em+formação;Java,+Python,+C%2B%2B+e+Dart;Flutter+%7C+Spring+Boot+%7C+MySQL;Robótica+e+Arduino;APIs,+MVC+e+Desenvolvimento+de+Software;Sempre+aprendendo+novas+tecnologias!" alt="Typing SVG" /> </div>
-
-<br> <br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6a00ff,100:9d4edd&section=header&text=Eduardo%20Fernandez%20Evangelista&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
-📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=midnight-purple&hide_border=true"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180" src="https://img.pokemondb.net/sprites/home/shiny/mew.png" alt="Shiny Mew Pokémon"/>
 
-</div>
+# 👋 Hello! I'm Eduardo Fernandez Evangelista
 
-<br> <br>
+### 💻 Developer | Technology Student | Software, IoT and Robotics Enthusiast
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Developer+and+Technology+Student;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;Flutter+%7C+Spring+Boot+%7C+SQL;IoT+%7C+Robotics+%7C+Arduino+%7C+ESP32;Always+Learning%2C+Building+and+Evolving!" alt="Typing SVG"/>
 
-🛠️ Tech Stack
-💻 Linguagens
-<img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python"/> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++"/> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="Dart"/>
-
-<br> <br>
-
-📱 Desenvolvimento Mobile e Backend
-<img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" alt="Flutter"/> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring Boot"/> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL"/> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="APIs"/>
-
-<br> <br>
-
-🤖 Robótica e Hardware
-<img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino"/>
-
-<br> <br>
-
-🎨 Design e Ferramentas
-<img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma"/> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub"/>
-
-</div>
-
-<br> <br> <br>
-
-<div align="center">
-
-🎓 Conhecimentos e Formação
-Área / Tecnologia	Conhecimento
-🎨 Figma e Design de Interfaces	✅ Estudado
-🌐 Redes de Computadores	✅ Estudado
-☕ Java	✅ Estudado
-🗄️ MySQL e Banco de Dados	✅ Estudado
-📱 Flutter	✅ Estudado
-🎯 Dart	✅ Estudado
-🍃 Spring Boot	✅ Estudado
-⚙️ C++	✅ Estudado
-🤖 Arduino	✅ Estudado
-🐍 Python	✅ Estudado
-🦾 Robótica	✅ Estudado
-🏗️ Arquitetura MVC	✅ Estudado
-🔗 APIs e Integrações	✅ Estudado
 </div>
 
 <br>
 
 <div align="center">
 
-🚀 Áreas de Interesse
-<table> <tr> <td align="center">📱<br><b>Desenvolvimento Mobile</b></td> <td align="center">☕<br><b>Desenvolvimento Backend</b></td> <td align="center">🤖<br><b>Robótica</b></td> <td align="center">🌐<br><b>APIs e Integrações</b></td> </tr> <tr> <td align="center">🗄️<br><b>Banco de Dados</b></td> <td align="center">🏗️<br><b>Arquitetura de Software</b></td> <td align="center">🎨<br><b>UI/UX Design</b></td> <td align="center">🌐<br><b>Redes</b></td> </tr> </table>
+| 🇺🇸 About Me                                                                                                                                                                                                                                                     | 🇧🇷 Sobre Mim                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Developer and technology student interested in software development, backend systems, mobile applications, IoT, robotics and computer technology. This profile brings together projects, studies, experiments and ideas developed throughout my learning journey. | Desenvolvedor e estudante de tecnologia interessado em desenvolvimento de software, sistemas backend, aplicações mobile, IoT, robótica e tecnologia em geral. Este perfil reúne projetos, estudos, experimentos e ideias desenvolvidos ao longo da minha jornada de aprendizado. |
 
 </div>
-
-<br>
-
-<details align="center"> <summary> <samp> <b>📌 Mais informações</b> </samp> </summary>
 
 <br>
 
 <div align="center">
 
-👨‍💻 Sobre mim
-<samp> Sou um estudante apaixonado por tecnologia e desenvolvimento. <br> Tenho interesse em criar aplicações modernas, trabalhar com APIs, bancos de dados, desenvolvimento mobile e sistemas backend. <br><br> Também possuo conhecimentos em robótica, Arduino, redes de computadores e arquitetura MVC. <br><br> Estou sempre buscando aprender novas tecnologias e desenvolver projetos que me permitam evoluir como profissional. </samp>
+| 💻 Software                      | 📱 Mobile        | 🤖 IoT & Robotics               | 🗄️ Data      |
+| -------------------------------- | ---------------- | ------------------------------- | ------------- |
+| Java, Python, C++ and JavaScript | Flutter and Dart | Arduino, ESP32 and Raspberry Pi | SQL and MySQL |
 
-<br> <br>
-
-📫 Contato
-
-
-
-
-
-
-<br>
-
-<samp> 🚀 Sempre aprendendo. Sempre construindo. </samp>
+| 🌐 Web                   | ⚙️ Backend           | 🔗 APIs                    | 🎨 Design       |
+| ------------------------ | -------------------- | -------------------------- | --------------- |
+| HTML, CSS and JavaScript | Spring Boot and Java | REST APIs and integrations | Figma and UI/UX |
 
 </div>
 
 <br>
 
-</details>
+---
+
+<div align="center">
+
+# 🛠️ Tech Stack
+
+<table>
+<tr>
+<td align="center"><b>Languages</b><br><br>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="Dart"/>
+</td>
+
+<td align="center"><b>Web & Mobile</b><br><br>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" alt="Flutter"/>
+</td>
+
+<td align="center"><b>Backend & Data</b><br><br>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="Spring Boot"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman"/>
+</td>
+
+<td align="center"><b>IoT & Tools</b><br><br>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&style=flat-square&color=A020F0" alt="Profile views" /> </div>
+<div align="center">
+
+| 🧩 Concepts                                 | 🔧 Platforms                                 | 🏗️ Practices                             |
+| ------------------------------------------- | -------------------------------------------- | ----------------------------------------- |
+| OOP, algorithms, programming logic and CRUD | Arduino, ESP32, Raspberry Pi and MicroPython | MVC, REST APIs, Git and GitHub            |
+| Encapsulation, inheritance and polymorphism | Sensors, electronics and embedded systems    | Code organization and continuous learning |
+
+</div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a00ff,100:9d4edd&section=footer"/>
+---
 
+<div align="center">
 
-O conteúdo deste e-mail é de responsabilidade exclusiva do usuário, não cabendo ao SENAI qualquer responsabilidade sobre as informações divulgadas ou certificação de sua veracidade.
+# 📊 GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFernandezEvangelista&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFernandezEvangelista&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoFernandezEvangelista&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🚀 What I Build
+
+<table>
+<tr>
+<td align="center">📱<br><b>Mobile Apps</b><br>Flutter interfaces and applications</td>
+<td align="center">⚙️<br><b>Backend Systems</b><br>Java, Spring Boot and APIs</td>
+<td align="center">🤖<br><b>IoT Projects</b><br>Hardware, sensors and automation</td>
+</tr>
+<tr>
+<td align="center">🗄️<br><b>Data Solutions</b><br>SQL, MySQL and CRUD systems</td>
+<td align="center">🌐<br><b>Web Projects</b><br>HTML, CSS and JavaScript</td>
+<td align="center">🧪<br><b>Experiments</b><br>Studies, prototypes and research</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 📚 Projects         | 🧪 Experiments   | 🔬 Research       | 📈 Evolution        |
+| ------------------- | ---------------- | ----------------- | ------------------- |
+| Practical solutions | New technologies | Technical studies | Continuous learning |
+
+<br>
+
+### Learn → Practice → Build → Explore → Evolve
+
+### Aprender → Praticar → Desenvolver → Explorar → Evoluir
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+**Author:** Eduardo Fernandez Evangelista
+**GitHub:** [EduardoFernandezEvangelista](https://github.com/EduardoFernandezEvangelista)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=EduardoFernandezEvangelista&style=flat-square&color=A020F0" alt="Profile Views"/>
+
+<br><br>
+
+### 💡 Always learning. Always building. Always evolving.
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6a00ff,100:9d4edd&section=footer"/>
