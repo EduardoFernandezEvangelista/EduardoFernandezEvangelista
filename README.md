@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height="180" src="https://img.pokemondb.net/sprites/home/shiny/mew.png" alt="Shiny Mew Pokémon"/>
+<img height="180" src="./mew.gif" alt="Shiny Mew Pokémon"/>
 
 # 👋 Hello! I'm Eduardo Fernandez Evangelista
 
