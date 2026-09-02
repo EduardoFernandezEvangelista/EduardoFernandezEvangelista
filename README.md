@@ -156,7 +156,7 @@
 
 <br><br>
 
-### 💡 Always learning. Always building. Always evolving.
+### Always learning. Always building. Always evolving.
 
 </div>
 
