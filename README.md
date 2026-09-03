@@ -6,7 +6,7 @@
 
 # 👋 Hello! I'm Eduardo Fernandez Evangelista
 
-### Developer | Technology Student | Software, IoT and Robotics Enthusiast
+### Full Stack Developer | Technology Student | Software, IoT and Robotics Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=Developer+and+Technology+Student;Java+%7C+Python+%7C+C%2B%2B+%7C+JavaScript;Flutter+%7C+Spring+Boot+%7C+SQL;IoT+%7C+Robotics+%7C+Arduino+%7C+ESP32;Always+Learning%2C+Building+and+Evolving!" alt="Typing SVG"/>
 
