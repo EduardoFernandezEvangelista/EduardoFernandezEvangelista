@@ -26,11 +26,11 @@
 
 <div align="center">
 
-|  Software                      |  Mobile        |  IoT & Robotics               |  Data      |
+| 💻 Software | 📱 Mobile | 🤖 IoT & Robotics | 🗄️ Data |
 | -------------------------------- | ---------------- | ------------------------------- | ------------- |
 | Java, Python, C++ and JavaScript | Flutter and Dart | Arduino, ESP32 and Raspberry Pi | SQL and MySQL |
 
-|  Web                   |  Backend           |  APIs                    |  Design       |
+| 🌐 Web | ⚙️ Backend | 🔗 APIs | 🎨 Design |
 | ------------------------ | -------------------- | -------------------------- | --------------- |
 | HTML, CSS and JavaScript | Spring Boot and Java | REST APIs and integrations | Figma and UI/UX |
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-|  Concepts                                 |  Platforms                                 |  Practices                             |
+| 🧩 Concepts | 🔧 Platforms | 🏗️ Practices |
 | ------------------------------------------- | -------------------------------------------- | ----------------------------------------- |
 | OOP, algorithms, programming logic and CRUD | Arduino, ESP32, Raspberry Pi and MicroPython | MVC, REST APIs, Git and GitHub            |
 | Encapsulation, inheritance and polymorphism | Sensors, electronics and embedded systems    | Code organization and continuous learning |
@@ -129,7 +129,7 @@
 
 <div align="center">
 
-| Projects         | Experiments   | Research       | Evolution        |
+| 📚 Projects | 🧪 Experiments | 🔬 Research | 📈 Evolution |
 | ------------------- | ---------------- | ----------------- | ------------------- |
 | Practical solutions | New technologies | Technical studies | Continuous learning |
 
