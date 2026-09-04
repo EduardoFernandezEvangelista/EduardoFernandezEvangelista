@@ -42,7 +42,7 @@
 
 <div align="center">
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 <table>
 <tr>
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-# GitHub Statistics
+# 📊 GitHub Statistics
 
 <br><br>
 
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-# What I Build
+# 🚀 What I Build
 
 <table>
 <tr>
