@@ -18,7 +18,7 @@
 
 | 🇺🇸 About Me                                                                                                                                                                                                                                                     | 🇧🇷 Sobre Mim                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Developer and technology student interested in software development, backend and frontend systems, mobile applications, IoT, robotics and computer technology. This profile brings together projects, studies, experiments and ideas developed throughout my learning journey. | Desenvolvedor e estudante de tecnologia interessado em desenvolvimento de software, sistemas backend e frontend, aplicações mobile, IoT, robótica e tecnologia em geral. Este perfil reúne projetos, estudos, experimentos e ideias desenvolvidos ao longo da minha jornada de aprendizado. |
+| I'm a developer and tech student working on software, backend and frontend systems, mobile apps, IoT, and robotics. This profile is a collection of projects, studies, and experiments from my learning so far. | Sou desenvolvedor e estudante de tecnologia trabalhando em software, sistemas backend e frontend, apps móveis, IoT e robótica. Este perfil é uma coleção de projetos, estudos e experimentos de meu aprendizado até agora. |
 
 </div>
 
@@ -133,12 +133,6 @@
 | ------------------- | ---------------- | ----------------- | ------------------- |
 | Practical solutions | New technologies | Technical studies | Continuous learning |
 
-<br>
-
-### Learn → Practice → Build → Explore → Evolve
-
-### Aprender → Praticar → Desenvolver → Explorar → Evoluir
-
 </div>
 
 <br>
@@ -153,10 +147,6 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=EduardoFernandezEvangelista&style=flat-square&color=A020F0" alt="Profile Views"/>
-
-<br><br>
-
-### Always learning. Always building. Always evolving.
 
 </div>
 
